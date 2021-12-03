@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Repository\Selection Statements 1\User Inputs Selection Statemen\User Inputs Selection Statemen\bin\Debug\netcoreapp3.1\User Inputs Selection Statemen.exe
+C:\Users\Student\Desktop\Repository\Selection Statements 1\User Inputs Selection Statemen\User Inputs Selection Statemen\bin\Debug\netcoreapp3.1\User Inputs Selection Statemen.deps.json
+C:\Users\Student\Desktop\Repository\Selection Statements 1\User Inputs Selection Statemen\User Inputs Selection Statemen\bin\Debug\netcoreapp3.1\User Inputs Selection Statemen.runtimeconfig.json
+C:\Users\Student\Desktop\Repository\Selection Statements 1\User Inputs Selection Statemen\User Inputs Selection Statemen\bin\Debug\netcoreapp3.1\User Inputs Selection Statemen.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Repository\Selection Statements 1\User Inputs Selection Statemen\User Inputs Selection Statemen\bin\Debug\netcoreapp3.1\User Inputs Selection Statemen.dll
+C:\Users\Student\Desktop\Repository\Selection Statements 1\User Inputs Selection Statemen\User Inputs Selection Statemen\bin\Debug\netcoreapp3.1\User Inputs Selection Statemen.pdb
+C:\Users\Student\Desktop\Repository\Selection Statements 1\User Inputs Selection Statemen\User Inputs Selection Statemen\obj\Debug\netcoreapp3.1\User Inputs Selection Statemen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Repository\Selection Statements 1\User Inputs Selection Statemen\User Inputs Selection Statemen\obj\Debug\netcoreapp3.1\User Inputs Selection Statemen.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Repository\Selection Statements 1\User Inputs Selection Statemen\User Inputs Selection Statemen\obj\Debug\netcoreapp3.1\User Inputs Selection Statemen.AssemblyInfo.cs
+C:\Users\Student\Desktop\Repository\Selection Statements 1\User Inputs Selection Statemen\User Inputs Selection Statemen\obj\Debug\netcoreapp3.1\User Inputs Selection Statemen.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Repository\Selection Statements 1\User Inputs Selection Statemen\User Inputs Selection Statemen\obj\Debug\netcoreapp3.1\User Inputs Selection Statemen.dll
+C:\Users\Student\Desktop\Repository\Selection Statements 1\User Inputs Selection Statemen\User Inputs Selection Statemen\obj\Debug\netcoreapp3.1\User Inputs Selection Statemen.pdb
+C:\Users\Student\Desktop\Repository\Selection Statements 1\User Inputs Selection Statemen\User Inputs Selection Statemen\obj\Debug\netcoreapp3.1\User Inputs Selection Statemen.genruntimeconfig.cache
+C:\Users\Student\Desktop\Repository\Selection Statements 1\User Inputs Selection Statemen\User Inputs Selection Statemen\obj\Debug\netcoreapp3.1\User Inputs Selection Statemen.csproj.AssemblyReference.cache
